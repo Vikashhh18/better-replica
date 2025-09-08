@@ -4,7 +4,7 @@ A pixel-perfect replica of Better.com's website built with Next.js 15, featuring
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.vercel.app)
+[View Live Demo](https://better-replica-opal.vercel.app)
 
 ## 📋 Project Overview
 
@@ -186,7 +186,7 @@ This project is for educational purposes as part of a React internship assignmen
 **Your Name**
 - GitHub: https://github.com/Vikashhh18
 - LinkedIn: https://www.linkedin.com/in/vikash-sharma-080907288/
-- Email: Vikash.sharma1761@example.com
+- Email: Vikash.sharma1761@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -194,3 +194,4 @@ This project is for educational purposes as part of a React internship assignmen
 - Next.js team for the amazing framework
 - Tailwind CSS for the utility-first CSS framework
 - shadcn/ui for the beautiful component library
+
